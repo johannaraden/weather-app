@@ -1,0 +1,22 @@
+/* STYLES */
+
+.app {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 40%;
+    margin: 2em auto;
+    border: 2px solid black;
+    border-top: 3em solid black;
+    text-align: center;
+    padding: 2em; 
+    -webkit-box-shadow: 10px 10px 14px -6px rgba(143,143,143,1);
+    -moz-box-shadow: 10px 10px 14px -6px rgba(143,143,143,1);
+    box-shadow: 10px 10px 14px -6px rgba(143,143,143,1);
+}
+
+#img {
+    width: 6em;
+}
+
+#city {
+    color: grey;
+}
