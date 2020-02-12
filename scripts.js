@@ -2,8 +2,8 @@
    VARIABLER AV API-NYCKLAR
 */
 
-const apiUrl = 'http://api.openweathermap.org/data/2.5/weather?q=Stockholm,Sweden&units=metric&APPID=35f6f4ecefca8bd4b39c17f88cdad84e';
-const iconUrl = 'http://openweathermap.org/img/wn/';
+const apiUrl = 'https://api.openweathermap.org/data/2.5/weather?q=Stockholm,Sweden&units=metric&APPID=35f6f4ecefca8bd4b39c17f88cdad84e';
+const iconUrl = 'https://openweathermap.org/img/wn/';
 
 
 /* Async funktion inmehållande fetch api */
